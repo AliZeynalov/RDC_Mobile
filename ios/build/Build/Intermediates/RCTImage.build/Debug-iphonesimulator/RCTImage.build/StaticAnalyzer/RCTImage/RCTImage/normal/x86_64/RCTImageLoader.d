@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/alizeynalov/RDC_Mobile/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/alizeynalov/RDC_Mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/alizeynalov/RDC_Mobile/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/alizeynalov/RDC_Mobile/node_modules/react-native/Libraries/Image/RCTImageUtils.h

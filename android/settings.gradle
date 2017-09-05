@@ -1,0 +1,3 @@
+rootProject.name = 'RDC_Mobile'
+
+include ':app'
