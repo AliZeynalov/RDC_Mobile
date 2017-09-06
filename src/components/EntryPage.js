@@ -20,7 +20,7 @@ export default class EntryPage extends Component {
 
     getDetails()
     {
-        var Url = "https://vast-brushlands-78701.herokuapp.com/test/All";
+        var Url = "https://rdc-partner-server.herokuapp.com/test/All";
         return fetch(Url, {method: "GET"})
             .then((response) => response.json())
             .then((responseJson) => {
@@ -53,13 +53,15 @@ export default class EntryPage extends Component {
                         {this.state.users.map((user,i)=>{
                             return(
                                 <ListItem key={i}>
-                                    <Thumbnail square size={80} source={{ uri: 'Image URL' }} />
+                                    <Thumbnail square size={80} source={{ uri: user.img}} />
                                     <Body>
                                     <Text>{user.name}</Text>
                                     <Text note>{user.description}</Text>
                                     </Body>
                                     <Right>
-                                        <TouchableOpacity><Text>View</Text></TouchableOpacity>
+                                        <TouchableOpacity onPress={()=>Actions.mapPage({userID: user.id, description: user.description, photo: user.img})}>
+                                            <Text>View</Text>
+                                        </TouchableOpacity>
                                     </Right>
                                 </ListItem>
                             );

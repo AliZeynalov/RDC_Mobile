@@ -4,7 +4,7 @@
 import React, {Component} from 'react';
 import {Scene, Stack, Router} from 'react-native-router-flux';
 import EntryPage from './components/EntryPage';
-
+import MapPage from './components/MapPage';
 
 export default class AppRouter extends Component {
     constructor(props) {
@@ -16,9 +16,7 @@ export default class AppRouter extends Component {
             <Router>
                 <Stack key="root">
                 <Scene key="entryPage" component={EntryPage} hideNavBar initial/>
-                {/*<Scene key="selectBranchAddress" component={SelectBranchAddress} hideNavBar/>*/}
-
-
+                <Scene key="mapPage" component={MapPage} hideNavBar/>
                 </Stack>
             </Router>
 
